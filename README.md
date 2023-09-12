@@ -8,7 +8,10 @@
 Hi this is a [link](https://paragpallavsingh.com/) to my website
 write here, will not go into new line
 
-Leave an empty line in order to change paragraph
+Leave an **empty line** in order to change paragraph
+
+**bold**
+*italic*
 
 Let's come to lists
 
